@@ -1,0 +1,15 @@
+K:\ak\pjx\imgLib\imgLib\bin\Debug\imgLib.exe
+K:\ak\pjx\imgLib\imgLib\bin\Debug\imgLib.pdb
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.csprojAssemblyReference.cache
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.csproj.CoreCompileInputs.cache
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.exe
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.pdb
+K:\ak\pjx\imgLib\imgLib\bin\Debug\Newtonsoft.Json.dll
+K:\ak\pjx\imgLib\imgLib\bin\Debug\Newtonsoft.Json.pdb
+K:\ak\pjx\imgLib\imgLib\bin\Debug\Newtonsoft.Json.xml
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.csproj.CopyComplete
+K:\ak\pjx\imgLib\imgLib\bin\Debug\imgLib.exe.manifest
+K:\ak\pjx\imgLib\imgLib\bin\Debug\imgLib.application
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.TrustInfo.xml
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.exe.manifest
+K:\ak\pjx\imgLib\imgLib\obj\Debug\imgLib.application
